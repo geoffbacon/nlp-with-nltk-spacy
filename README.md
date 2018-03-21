@@ -1,17 +1,18 @@
-# Natural language processing with NLTK and SpaCy
+# Natural language processing with NLTK and spaCy
 
 ## Overview
 
-A three to four sentence description of the workshop.
+This workshop is a practical introduction to two major Python libraries for NLP: NLTK and spaCy. NLTK is designed to help teach NLP, while spaCy is designed to do larger scale projects. We will cover the major features of both, and use real-world problems to practice.
 
 ## What you'll learn
-* Thing 1
-* Thing 2
-* etc.
+* How NLTK and spaCy are structured.
+* How to perform basic NLP tasks like tokenization, sentence segmentation and POS-tagging.
+* How to perform more advanced NLP tasks like syntactic parsing and named entity recognition.
+* How to use these two Python libraries in your future projects.
 
 ## Prerequisites
 
-What you need to know before taking this workshop. Remember, 
+We will be getting our hands dirty with Python code, so you will need to be comfortable with Python before taking this workshop. Completion of D-Lab's Python FUN!damentals workshop series is sufficient.
 
 ## Getting started & software prerequisites
 
@@ -39,8 +40,9 @@ It's OK Not To Know! That's our motto at [D-Lab](http://dlab.berkeley.edu/). D-L
 
 ## References
 
-* [Reference 1](www.google.com)
-* etc.
+* [NLP with Python](http://www.nltk.org/book/)
+* [NLTK website](http://www.nltk.org/)
+* [spaCy website](https://spacy.io/)
 
 ## Contributing
 
@@ -48,13 +50,10 @@ If you spot a problem with these materials, please make an issue describing the 
 
 ## Authors
 
-* Add your name if you worked on this
-* etc
+* Geoff Bacon
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc.
+* Chris Hench
 
 ![D-Lab logo](data/logo.png)
