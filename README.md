@@ -1,5 +1,7 @@
 # Natural language processing with NLTK and spaCy
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoffbacon/nlp-with-nltk-spacy/master)
+
 ## Overview
 
 This workshop is a practical introduction to two major Python libraries for NLP: NLTK and spaCy. NLTK is designed to help teach NLP, while spaCy is designed to do larger scale projects. We will cover the major features of both, and use real-world problems to practice.
